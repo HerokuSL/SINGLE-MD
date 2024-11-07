@@ -1,0 +1,2 @@
+# SINGLE-MD
+🪄  MAGIC CUBE OF MEDIA  🪄
