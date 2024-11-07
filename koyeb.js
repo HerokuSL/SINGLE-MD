@@ -7,9 +7,9 @@ RUN sudo dnf -y update &&\
 
 RUN git clone https://github.com/GlobalTechInfo/SINGLE-MD
 
-WORKDIR /root/ultra-md
+WORKDIR /root/Single-md
 
-COPY ./root/ultra-md
+COPY ./root/single-md
 
 RUN npm install
 
