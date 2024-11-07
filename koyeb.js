@@ -5,7 +5,7 @@ RUN sudo dnf -y update &&\
     sudo dnf install -y git ffmpeg ImageMagick nodejs yarnpkg libwebp &&\
     sudo dnf clean all -y
 
-RUN git clone https://github.com/GlobalTechInfo/ULTRA-MD
+RUN git clone https://github.com/GlobalTechInfo/SINGLE-MD
 
 WORKDIR /root/ultra-md
 
